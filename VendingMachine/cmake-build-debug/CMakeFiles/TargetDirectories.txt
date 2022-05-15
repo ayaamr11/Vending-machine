@@ -1,0 +1,3 @@
+D:/FCI/Prog1/Assignments/teamtask-assi3-aya/cmake-build-debug/CMakeFiles/teamtask_assi3_aya.dir
+D:/FCI/Prog1/Assignments/teamtask-assi3-aya/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/FCI/Prog1/Assignments/teamtask-assi3-aya/cmake-build-debug/CMakeFiles/rebuild_cache.dir

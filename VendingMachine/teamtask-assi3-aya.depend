@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1542484908 source:d:\fci\prog1\assignments\teamtask-assi3-aya\main.cpp
+	<iostream>
+	"Machine.h"
+	"Buyer.h"
+	"Item.h"
+	"Money.h"
+
+1542476413 source:d:\fci\prog1\assignments\teamtask-assi3-aya\src\buyer.cpp
+	"Buyer.h"
+
+1542479270 d:\fci\prog1\assignments\teamtask-assi3-aya\include\buyer.h
+	"Money.h"
+	"Item.h"
+	"Machine.h"
+
+1542484842 source:d:\fci\prog1\assignments\teamtask-assi3-aya\src\item.cpp
+	"Item.h"
+
+1542484150 d:\fci\prog1\assignments\teamtask-assi3-aya\include\item.h
+	"Money.h"
+	<iostream>
+
+1542485238 d:\fci\prog1\assignments\teamtask-assi3-aya\include\money.h
+	<iostream>
+
+1542483731 source:d:\fci\prog1\assignments\teamtask-assi3-aya\src\machine.cpp
+	"Machine.h"
+
+1542483732 d:\fci\prog1\assignments\teamtask-assi3-aya\include\machine.h
+	"Item.h"
+	"Money.h"
+	<set>
+	<map>
+
+1542484787 source:d:\fci\prog1\assignments\teamtask-assi3-aya\src\money.cpp
+	"Money.h"
+
